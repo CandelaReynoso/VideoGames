@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* https://coolors.co/0e0d0c-8120dc-a72920-00a878 */
+
+.palett {
+   .backgroundcolor{
+     color: #0E0D0C;
+   }
+   .iconcolor{
+    color:#00A878;
+   }
+   .buttoncolor{
+    color: #8120DC;
+   }
+   .detailcolor {
+    color:#A72920;
+   }
+   .optional{
+    color:#FB00FF;
+   }
+}

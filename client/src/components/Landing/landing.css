@@ -1,0 +1,28 @@
+
+
+.landing {
+    background-image: url(https://blog-en.webroot.com/wp-content/uploads/2015/07/4938_video_games.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h4 {
+    color: #FB00FF;
+    font-size: 4rem;
+    position: absolute;
+    transform: translateY(-50%);
+    margin-left: 26rem;
+    top:5rem;
+
+    &:hover {
+        color:#A72920;
+        opacity: 0.4;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.10);
+    }
+}
